@@ -53,7 +53,7 @@ __1. The Boston Housing dataset contains a number of features that can be consid
 __2. In the past, systems like the one used at St. George's Hospital Medical School in the early 1980s that docked applicants 3 points for being female and 15 points for being non-European applied bias to the algorithms they implemented. Research and summarize another case where blatant bias about a sample population was built into an algorithm and discuss how the disparate treatment caused a disparate impact on the effected sample population.__
 
 
-__3. __Consider the following facts about the 2014 Facebook Emotional Contagion Study:
-__In 2012, Facebook's A/B testing tools as well as natural language processing (NLP) techniques were used to manipulate the news feeds of over 600,000 Facebook users. Some users had posts with "negative emotional content filtered out, while others had posts with "positive emotional content" filtered out, and then researchers measured the impact of these changes on the "emotional content" of those users' future Facebook posts.___
-__In the passage above, we learn that posts on a newsfeeed can 
+__3. __Consider the following facts about the 2014 Facebook Emotional Contagion Study:__
+_In 2012, Facebook's A/B testing tools as well as natural language processing (NLP) techniques were used to manipulate the news feeds of over 600,000 Facebook users. Some users had posts with "negative emotional content filtered out, while others had posts with "positive emotional content" filtered out, and then researchers measured the impact of these changes on the "emotional content" of those users' future Facebook posts._
+__In the passage above, we learn that posts on a newsfeeed can be labeled with a positive or negative sentiment. Research what methods Facebook used to label the posts as positive or negative and discuss the impact that this might have on the study.__
 
