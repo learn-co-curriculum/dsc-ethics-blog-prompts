@@ -54,6 +54,6 @@ __2. In the past, systems like the one used at St. George's Hospital Medical Sch
 
 
 __3. Consider the following facts about the 2014 Facebook Emotional Contagion Study:__.   
-_In 2012, Facebook's A/B testing tools as well as natural language processing (NLP) techniques were used to manipulate the news feeds of over 600,000 Facebook users. Some users had posts with "negative emotional content filtered out, while others had posts with "positive emotional content" filtered out, and then researchers measured the impact of these changes on the "emotional content" of those users' future Facebook posts._
+_In 2012, Facebook's A/B testing tools as well as natural language processing (NLP) techniques were used to manipulate the news feeds of over 600,000 Facebook users. Some users had posts with "negative emotional content filtered out, while others had posts with "positive emotional content" filtered out, and then researchers measured the impact of these changes on the "emotional content" of those users' future Facebook posts._.  
 __In the passage above, we learn that posts on a newsfeeed can be labeled with a positive or negative sentiment. Research what methods Facebook used to label the posts as positive or negative and discuss the impact that this might have on the study.__
 
