@@ -33,14 +33,15 @@ __3. In GDPR, the standard for data collection is defined as "on a lawful basis"
 Suggested for Phase 2
 
 __1. Logistic regression and other algorithms are used to inform a wide range of decisions including:__
-	* [whether to provide someone with a loan](https://web.archive.org/web/20221230075448/https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms)
-	* [the degree of criminal sentencing](https://web.archive.org/web/20230106001145/https://www.nybooks.com/articles/2021/06/10/prison-terms-sentenced-by-algorithm/)
-	* [whether to hire an individual for a job](https://archive.is/pcw8a) 
+* [whether to provide someone with a loan](https://web.archive.org/web/20221230075448/https://themarkup.org/denied/2021/08/25/the-secret-bias-hidden-in-mortgage-approval-algorithms)
+* [the degree of criminal sentencing](https://web.archive.org/web/20230106001145/https://www.nybooks.com/articles/2021/06/10/prison-terms-sentenced-by-algorithm/)
+* [whether to hire an individual for a job](https://archive.is/pcw8a) 
+
 __Choose one of the decisions listed above and discuss how historical bias might impact the underlying data and how this can impact the fairness of the model used to make the decision.__
 
 
 __2. Another concern is that some features might not initially appear to be sensitive, but are actually highly correlated with a sensitive feature. For example, in the United States, geography is highly correlated with racial demographics. Considering this, a credit card company that uses zip code as a factor to decide how creditworthy an applicant is may end up unintentionally exhibiting racial discrimination. 
-If you were a data scientist working for a credit card company and your employer wanted to include this feature in their model, how would you convince them that including the feature would be unethical? Provide some advice for fellow data scientists that might find themselves in this situation.__
+If you were a data scientist working for a credit card company and your employer wanted to include this feature in their model, how would you convince them that including the feature would be unethical? Provide some advice for fellow data scientists that might find themselves in this situation. Use [this guide](https://archive.ph/5TL6y) to help frame your advice.__
 
 
 
@@ -50,7 +51,15 @@ Suggested for Phase 3 and Phase 4
 __1. The Boston Housing dataset contains a number of features that can be considered sensitive in isolation but can be especially problematic when combined. Selecting a combination of features might produce an analysis that is plagued by either measurement bias or algorithmic bias. Describe how the combination of features might lead to a biased analysis.__
 
 
-__2. In the past, systems like the one used at St. George's Hospital Medical School in the early 1980s that docked applicants 3 points for being female and 15 points for being non-European applied bias to the algorithms they implemented. Research and summarize another case where blatant bias about a sample population was built into an algorithm and discuss how the disparate treatment caused a disparate impact on the affected sample population.__
+__2. In the past, systems like the one used at St. George's Hospital Medical School in the early 1980s that docked applicants 3 points for being female and 15 points for being non-European applied bias to the algorithms they implemented. Research and summarize another case where blatant bias about a sample population was built into an algorithm and discuss how the disparate treatment caused a disparate impact on the affected sample population. Use the following questions and guidelines to help you:__
+* Be sure to: 
+
+	* List the decision maker(s) in the case you selected
+	* Describe what went wrong 
+	* In 2-3 sentences, explain the impact of the unethical decision(s)
+	* Share any next steps or recommendations you think would be beneficial
+	
+* __In the example you choose, were unethical made from the beginning, or did behavior(s) change and become unethical after a certain point in time? Consider using a timeline or a list of dates to illustrate what happened.__
 
 
 __3. Consider the following facts about the 2014 Facebook Emotional Contagion Study:__.   
